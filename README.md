@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fakenamewastken
+- 👀 I’m interested in ...Full Stack Development and iOS Development
+- 🌱 I’m currently learning ...How to buld responsive front ends.
